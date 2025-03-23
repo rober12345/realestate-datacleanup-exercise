@@ -389,7 +389,7 @@ print(f"The south belt DataFrame contains {south_belt_df.shape[0]} rows and {sou
 
 #Exercise 15. Make a bar plot of the median of the prices and explain what you observe (you must use the subset obtained in Exercise 14) (★★★)
 #Print the bar of the median of the prices 
-and write in the Markdown cell a brief analysis about the plot.
+#and write in the Markdown cell a brief analysis about the plot.
 
 
 # Define the "south belt" populations
